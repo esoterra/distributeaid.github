@@ -51,7 +51,7 @@ Good first issues can be found [on the project's issue page](https://github.com/
 
 Lead: [Maxime Preaux](https://github.com/deammer) (frontend), [Markus Tacker](https://github.com/coderbyheart)
 
-### Needs Assessment
+### 📋 Needs Assessment
 
 The goal of this project is to provide a way for Distribute Aid to run needs assessment using forms that can be modified using low-code or zero-code approach. These forms need to provide validation and flow logic.
 
