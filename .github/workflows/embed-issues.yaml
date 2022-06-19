@@ -1,0 +1,39 @@
+name: Embed Good First Issues in README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  embed-issues:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "16.x"
+
+      - run: npm i @octokit/core
+
+      - name: Update README.md
+        run: node .github/workflows/embed-issues.mjs profile/README.md
+
+      - name: Check if README.md was updated
+        run: |
+          if ! git diff --exit-code --name-only profile/README.md; then
+            echo "UPDATED=1" >> $GITHUB_ENV
+          fi
+
+      - name: Commit README.md
+        if: env.UPDATED == '1'
+        run: |
+          echo "machine github.com login accesskey password ${{ secrets.GITHUB_TOKEN }}" > ~/.netrc
+          git config --global user.email "actions@example.com"
+          git config --global user.name "GitHub Actions"
+          git add profile/README.md
+          git commit -m "update good first issues"
+          git push
