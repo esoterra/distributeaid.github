@@ -62,7 +62,9 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 #### Good first issues
 
 <!-- embed-issues distributeaid.org -->
-*There are currently no **good first issues** in the [distributeaid.org](https://github.com/distributeaid/distributeaid.org/issues?q=is%3Aissue+label%3A%22good+first+issue%22+is%3Aopen) project.*
+- [#352 Gitpod integration](https://github.com/distributeaid/distributeaid.org/issues/352)
+- [#351 Add styling for Region page](https://github.com/distributeaid/distributeaid.org/issues/351)
+- [#350 Add styling for Subregion page's components](https://github.com/distributeaid/distributeaid.org/issues/350)
 <!-- embed-issues-end -->
 
 ### 📦 Shipment Tracker
