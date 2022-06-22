@@ -79,7 +79,7 @@ Lead: [Maxime Preaux](https://github.com/deammer) (frontend), [Markus Tacker](ht
 #### Good first issues
 
 <!-- embed-issues shipment-tracker -->
-- [#830 fix(deps): update apollo graphql packages to v3.9.0](https://github.com/distributeaid/shipment-tracker/pull/830)
+- [#830 fix(deps): update apollo graphql packages](https://github.com/distributeaid/shipment-tracker/pull/830)
 - [#819 fix(deps): update dependency nanoid to v4](https://github.com/distributeaid/shipment-tracker/pull/819)
 - [#767 Shipments only need exactly one sending and receiving hub](https://github.com/distributeaid/shipment-tracker/issues/767)
 - [#763 Single-select drop down should not have pre-filled value (react-hook-form issue)](https://github.com/distributeaid/shipment-tracker/issues/763)
