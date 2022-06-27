@@ -12,15 +12,11 @@ You can find all of our upcoming free open-source coding events on [our Open Col
 
 Join [Taylor](https://twitter.com/borderless_dev) and [Ramón](https://twitter.com/hola_soy_milk) every Thursday at 10:30am PST / 1:30pm EST / 7:30pm CEST. We pair up each week to hack on [Distribute Aid's landing site](https://github.com/distributeaid/distributeaid.org) and discuss what's happening at the intersection of humanitarian aid and open source tech. You can sign up for the streams using the links below, or just [catch us on Twitch](https://www.twitch.tv/DistributeAid)!
 
-- [Thursday June 23rd](https://opencollective.com/distribute-aid-usa/events/open-source-livestream-3-458d398f)
 - [Thursday June 30th](https://opencollective.com/distribute-aid-usa/events/open-source-livestream-4-2b4dd057)
 
 ### Code Jams
 
-Our Code Jams are a great way to find out what open-source at Distribute Aid is all about and make your first contribution! It's a mix of office hours and pair programming hosted by [Taylor](https://twitter.com/borderless_dev). The times vary so we can include folks from all around the world. Please note that you do have to register for these events, and will receive an email with a zoom link for the Code Jam at the end of the registration process.
-
-- [Moday June 20th](https://opencollective.com/distribute-aid-usa/events/open-source-code-jam-3-751f65dc) @ Noon - Midnight EST - WORLD REFUGEE DAY SPECIAL EVENT
-- [Sunday June 26th](https://opencollective.com/distribute-aid-usa/events/open-source-code-jam-4-6b3d7652) @ 12pm - 4pm EST
+Our [Code Jams](https://opencollective.com/distribute-aid-usa/events) are a great way to find out what open-source at Distribute Aid is all about and make your first contribution! It's a mix of office hours and pair programming hosted by [Taylor](https://twitter.com/borderless_dev). The times vary so we can include folks from all around the world. Please note that you do have to register for these events, and will receive an email with a zoom link for the Code Jam at the end of the registration process.
 
 ## ⛑️ Contributing
 
