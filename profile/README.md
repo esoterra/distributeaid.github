@@ -56,33 +56,9 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 #### Good first issues
 
 <!-- embed-issues distributeaid.org -->
+
 - [#351 Add styling for Region page](https://github.com/distributeaid/distributeaid.org/issues/351)
 - [#350 Add styling for Subregion page's components](https://github.com/distributeaid/distributeaid.org/issues/350)
-<!-- embed-issues-end -->
-
-### 📦 Shipment Tracker
-
-> <https://github.com/distributeaid/shipment-tracker>
-
-The goal of this project is to provide a system for collecting aid offers and organizing them into pallets appropriate for a shipment. Using the system, Distribute Aid administrators can create shipments, aid donors can organize their aid for donation into offers for a shipment and provide the information necessary for a Distribute Aid hub coordinator and logistics coordinator to process it for international shipping to refugees.
-
-Technology: ⚙ TypeScript, Sequelize, Apollo, Express with Passport, React, Tailwind
-
-Lead: [Maxime Preaux](https://github.com/deammer) (frontend), [Markus Tacker](https://github.com/coderbyheart)
-
-#### Good first issues
-
-<!-- embed-issues shipment-tracker -->
-- [#830 fix(deps): update apollo graphql packages](https://github.com/distributeaid/shipment-tracker/pull/830)
-- [#819 fix(deps): update dependency nanoid to v4](https://github.com/distributeaid/shipment-tracker/pull/819)
-- [#767 Shipments only need exactly one sending and receiving hub](https://github.com/distributeaid/shipment-tracker/issues/767)
-- [#763 Single-select drop down should not have pre-filled value (react-hook-form issue)](https://github.com/distributeaid/shipment-tracker/issues/763)
-- [#760 Include guide how we build pallets](https://github.com/distributeaid/shipment-tracker/issues/760)
-- [#714 Users must accept Terms and Conditions before creating a group](https://github.com/distributeaid/shipment-tracker/issues/714)
-- [#673 Receiving group of line item should be optional (react-hook-form issue)](https://github.com/distributeaid/shipment-tracker/issues/673)
-- [#652 Locally store values entered in draft for line item](https://github.com/distributeaid/shipment-tracker/issues/652)
-- [#459 Implement FriendlyCaptcha, sponsored by friendlycaptcha.com](https://github.com/distributeaid/shipment-tracker/issues/459)
-- [#102 Handle 404s when dynamic paths don't point to an existing entity](https://github.com/distributeaid/shipment-tracker/issues/102)
 <!-- embed-issues-end -->
 
 ### 📋 Needs Assessment
@@ -99,5 +75,7 @@ Lead: [Markus Tacker](https://github.com/coderbyheart)
 #### Good first issues
 
 <!-- embed-issues needs-assessment,needs-assessment-storage -->
-*There are currently no **good first issues** in the [needs-assessment](https://github.com/distributeaid/needs-assessment/issues?q=is%3Aissue+label%3A%22good+first+issue%22+is%3Aopen), or [needs-assessment-storage](https://github.com/distributeaid/needs-assessment-storage/issues?q=is%3Aissue+label%3A%22good+first+issue%22+is%3Aopen) project.*
+
+_There are currently no **good first issues** in the [needs-assessment](https://github.com/distributeaid/needs-assessment/issues?q=is%3Aissue+label%3A%22good+first+issue%22+is%3Aopen), or [needs-assessment-storage](https://github.com/distributeaid/needs-assessment-storage/issues?q=is%3Aissue+label%3A%22good+first+issue%22+is%3Aopen) project._
+
 <!-- embed-issues-end -->
