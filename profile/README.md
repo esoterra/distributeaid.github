@@ -56,6 +56,7 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 #### Good first issues
 
 <!-- embed-issues distributeaid.org -->
+- [#477 Replace 3D globe visualization with 2D SVG image on devices that prefer reduced motion](https://github.com/distributeaid/distributeaid.org/issues/477)
 - [#351 Add styling for Region page](https://github.com/distributeaid/distributeaid.org/issues/351)
 - [#350 Add styling for Subregion page's components](https://github.com/distributeaid/distributeaid.org/issues/350)
 <!-- embed-issues-end -->
