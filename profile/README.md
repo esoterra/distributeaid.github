@@ -57,7 +57,6 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 
 <!-- embed-issues distributeaid.org -->
 - [#537 Highlight Paths for Code Contributors](https://github.com/distributeaid/distributeaid.org/issues/537)
-- [#477 Replace 3D globe visualization with 2D SVG image on devices that prefer reduced motion](https://github.com/distributeaid/distributeaid.org/issues/477)
 - [#351 Add styling for Region page](https://github.com/distributeaid/distributeaid.org/issues/351)
 - [#350 Add styling for Subregion page's components](https://github.com/distributeaid/distributeaid.org/issues/350)
 <!-- embed-issues-end -->
@@ -76,5 +75,5 @@ Lead: [Markus Tacker](https://github.com/coderbyheart)
 #### Good first issues
 
 <!-- embed-issues needs-assessment,needs-assessment-storage -->
-*There are currently no **good first issues** in the [needs-assessment](https://github.com/distributeaid/needs-assessment/issues?q=is%3Aissue+label%3A%22good+first+issue%22+is%3Aopen), or [needs-assessment-storage](https://github.com/distributeaid/needs-assessment-storage/issues?q=is%3Aissue+label%3A%22good+first+issue%22+is%3Aopen) project.*
+- [#35 chore(deps): update dependency @nordicsemiconductor/asset-tracker-cloud-code-style to v11.0.119](https://github.com/distributeaid/needs-assessment/pull/35)
 <!-- embed-issues-end -->
