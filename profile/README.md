@@ -57,6 +57,8 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 
 <!-- embed-issues distributeaid.org -->
 - [#563 Mobile view has padding on the right ](https://github.com/distributeaid/distributeaid.org/issues/563)
+- [#547 Create Generalized Card Template](https://github.com/distributeaid/distributeaid.org/issues/547)
+- [#546 Create Teams Page in About Us Section](https://github.com/distributeaid/distributeaid.org/issues/546)
 - [#537 Highlight Paths for Code Contributors](https://github.com/distributeaid/distributeaid.org/issues/537)
 - [#351 Add styling for Region page](https://github.com/distributeaid/distributeaid.org/issues/351)
 - [#350 Add styling for Subregion page's components](https://github.com/distributeaid/distributeaid.org/issues/350)
