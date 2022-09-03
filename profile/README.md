@@ -59,6 +59,7 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 - [#547 Create Generalized Card Template](https://github.com/distributeaid/distributeaid.org/issues/547)
 - [#546 Create Teams Page in About Us Section](https://github.com/distributeaid/distributeaid.org/issues/546)
 - [#537 Highlight Paths for Code Contributors](https://github.com/distributeaid/distributeaid.org/issues/537)
+- [#527 Add arrows to arch on globe](https://github.com/distributeaid/distributeaid.org/issues/527)
 - [#351 Add styling for Region page](https://github.com/distributeaid/distributeaid.org/issues/351)
 - [#350 Add styling for Subregion page's components](https://github.com/distributeaid/distributeaid.org/issues/350)
 <!-- embed-issues-end -->
