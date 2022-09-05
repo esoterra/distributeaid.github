@@ -57,7 +57,6 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 
 <!-- embed-issues distributeaid.org -->
 - [#582 Feat: Update role data model in Gatsby by loading additional field](https://github.com/distributeaid/distributeaid.org/issues/582)
-- [#547 Create Generalized Card Template](https://github.com/distributeaid/distributeaid.org/issues/547)
 - [#546 Create Teams Page in About Us Section](https://github.com/distributeaid/distributeaid.org/issues/546)
 - [#537 Highlight Paths for Code Contributors](https://github.com/distributeaid/distributeaid.org/issues/537)
 - [#527 Add arrows to arch on globe](https://github.com/distributeaid/distributeaid.org/issues/527)
