@@ -77,5 +77,5 @@ Lead: [Markus Tacker](https://github.com/coderbyheart)
 #### Good first issues
 
 <!-- embed-issues needs-assessment,needs-assessment-storage -->
-*There are currently no **good first issues** in the [needs-assessment](https://github.com/distributeaid/needs-assessment/issues?q=is%3Aissue+label%3A%22good+first+issue%22+is%3Aopen), or [needs-assessment-storage](https://github.com/distributeaid/needs-assessment-storage/issues?q=is%3Aissue+label%3A%22good+first+issue%22+is%3Aopen) project.*
+- [#35 chore(deps): update dependency @nordicsemiconductor/asset-tracker-cloud-code-style to v11.0.121](https://github.com/distributeaid/needs-assessment/pull/35)
 <!-- embed-issues-end -->
