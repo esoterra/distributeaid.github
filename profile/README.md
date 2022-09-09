@@ -56,6 +56,7 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 #### Good first issues
 
 <!-- embed-issues distributeaid.org -->
+- [#592 Use @tailwindcss/typography to style react components instead of using Tailwind CSS classes directly](https://github.com/distributeaid/distributeaid.org/issues/592)
 - [#585 Create Content Block: Youtube Embed](https://github.com/distributeaid/distributeaid.org/issues/585)
 - [#584 Create Content Block: Image with Caption](https://github.com/distributeaid/distributeaid.org/issues/584)
 - [#571 Feat: Load Media Asset Data Model into Gatsby](https://github.com/distributeaid/distributeaid.org/issues/571)
