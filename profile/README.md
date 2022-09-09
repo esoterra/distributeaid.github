@@ -56,7 +56,9 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 #### Good first issues
 
 <!-- embed-issues distributeaid.org -->
+- [#585 Create Content Block: Youtube Embed](https://github.com/distributeaid/distributeaid.org/issues/585)
 - [#584 Create Content Block: Image with Caption](https://github.com/distributeaid/distributeaid.org/issues/584)
+- [#571 Feat: Load Media Asset Data Model into Gatsby](https://github.com/distributeaid/distributeaid.org/issues/571)
 - [#546 Create Teams Page in About Us Section](https://github.com/distributeaid/distributeaid.org/issues/546)
 - [#537 Highlight Paths for Code Contributors](https://github.com/distributeaid/distributeaid.org/issues/537)
 - [#527 Add arrows to arch on globe](https://github.com/distributeaid/distributeaid.org/issues/527)
