@@ -56,6 +56,7 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 #### Good first issues
 
 <!-- embed-issues distributeaid.org -->
+- [#605 Add Card Hover Behavior](https://github.com/distributeaid/distributeaid.org/issues/605)
 - [#546 Create Teams Page in About Us Section](https://github.com/distributeaid/distributeaid.org/issues/546)
 - [#537 Highlight Paths for Code Contributors](https://github.com/distributeaid/distributeaid.org/issues/537)
 - [#527 Add arrows to arch on globe](https://github.com/distributeaid/distributeaid.org/issues/527)
