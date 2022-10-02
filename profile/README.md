@@ -58,7 +58,6 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 <!-- embed-issues distributeaid.org -->
 - [#717 [Helmet] Gatsby now has built-in support for modifying the document head.](https://github.com/distributeaid/distributeaid.org/issues/717)
 - [#716 [Codesee] Module not found: Can't resolve 'vue'](https://github.com/distributeaid/distributeaid.org/issues/716)
-- [#714 [Tailwind] The `purge`/`content` options have changed in Tailwind CSS v3.0.](https://github.com/distributeaid/distributeaid.org/issues/714)
 - [#661 Fix errors reported by Lighthouse CI](https://github.com/distributeaid/distributeaid.org/issues/661)
 - [#592 Use @tailwindcss/typography to style react components instead of using Tailwind CSS classes directly](https://github.com/distributeaid/distributeaid.org/issues/592)
 - [#585 Create Content Block: Youtube Embed](https://github.com/distributeaid/distributeaid.org/issues/585)
