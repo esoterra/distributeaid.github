@@ -82,5 +82,5 @@ Lead: [Markus Tacker](https://github.com/coderbyheart)
 #### Good first issues
 
 <!-- embed-issues needs-assessment,needs-assessment-storage -->
-- [#43 Implement logout (cookie deletion)](https://github.com/distributeaid/needs-assessment/issues/43)
+*There are currently no **good first issues** in the [needs-assessment](https://github.com/distributeaid/needs-assessment/issues?q=is%3Aissue+label%3A%22good+first+issue%22+is%3Aopen), or [needs-assessment-storage](https://github.com/distributeaid/needs-assessment-storage/issues?q=is%3Aissue+label%3A%22good+first+issue%22+is%3Aopen) project.*
 <!-- embed-issues-end -->
