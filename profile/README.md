@@ -56,6 +56,7 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 #### Good first issues
 
 <!-- embed-issues distributeaid.org -->
+- [#756 Fix TypeScript errors](https://github.com/distributeaid/distributeaid.org/issues/756)
 - [#717 [Helmet] Gatsby now has built-in support for modifying the document head.](https://github.com/distributeaid/distributeaid.org/issues/717)
 - [#661 Fix errors reported by Lighthouse CI](https://github.com/distributeaid/distributeaid.org/issues/661)
 - [#592 Use @tailwindcss/typography to style react components instead of using Tailwind CSS classes directly](https://github.com/distributeaid/distributeaid.org/issues/592)
