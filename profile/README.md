@@ -56,6 +56,7 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 #### Good first issues
 
 <!-- embed-issues distributeaid.org -->
+- [#763 Gitpod failing to run e2e tests](https://github.com/distributeaid/distributeaid.org/issues/763)
 - [#661 Fix errors reported by Lighthouse CI](https://github.com/distributeaid/distributeaid.org/issues/661)
 - [#625 Needs Assessment: Clothing Data Visualization](https://github.com/distributeaid/distributeaid.org/issues/625)
 - [#592 Use @tailwindcss/typography to style react components instead of using Tailwind CSS classes directly](https://github.com/distributeaid/distributeaid.org/issues/592)
