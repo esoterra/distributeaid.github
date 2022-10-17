@@ -56,6 +56,7 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 #### Good first issues
 
 <!-- embed-issues distributeaid.org -->
+- [#772 Refactor Custom CSS Classes in Stylesheets > Tailwind Classes](https://github.com/distributeaid/distributeaid.org/issues/772)
 - [#763 Gitpod failing to run e2e tests](https://github.com/distributeaid/distributeaid.org/issues/763)
 - [#661 Fix errors reported by Lighthouse CI](https://github.com/distributeaid/distributeaid.org/issues/661)
 - [#630 Needs Assessment: Shelter and Storage Data Visualization](https://github.com/distributeaid/distributeaid.org/issues/630)
