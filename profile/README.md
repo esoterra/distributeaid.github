@@ -56,8 +56,6 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 #### Good first issues
 
 <!-- embed-issues distributeaid.org -->
-- [#815 Add E2E test for Routes pages](https://github.com/distributeaid/distributeaid.org/issues/815)
-- [#777 Refactor Route Pages](https://github.com/distributeaid/distributeaid.org/issues/777)
 - [#772 Refactor Custom CSS Classes in Stylesheets > Tailwind Classes](https://github.com/distributeaid/distributeaid.org/issues/772)
 - [#661 Fix errors reported by Lighthouse CI](https://github.com/distributeaid/distributeaid.org/issues/661)
 - [#630 Needs Assessment: Shelter and Storage Data Visualization](https://github.com/distributeaid/distributeaid.org/issues/630)
