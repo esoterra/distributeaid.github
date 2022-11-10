@@ -57,7 +57,6 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 
 <!-- embed-issues distributeaid.org -->
 - [#812 Load Additional Region Data Model Fields into Gatsby ](https://github.com/distributeaid/distributeaid.org/issues/812)
-- [#772 Refactor Custom CSS Classes in Stylesheets > Tailwind Classes](https://github.com/distributeaid/distributeaid.org/issues/772)
 - [#661 Fix errors reported by Lighthouse CI](https://github.com/distributeaid/distributeaid.org/issues/661)
 - [#630 Needs Assessment: Shelter and Storage Data Visualization](https://github.com/distributeaid/distributeaid.org/issues/630)
 - [#629 Needs Assessment: Food Data Visualization](https://github.com/distributeaid/distributeaid.org/issues/629)
