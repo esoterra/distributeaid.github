@@ -49,7 +49,7 @@ But first, please read our [Code of Conduct](https://github.com/distributeaid/.g
 
 Distribute Aid's landing site, where we get to tell the world who the heck we are and what the hell we're doing!
 
-Technology: ⚙ TypeScript, Gatsby.js, React, Contentful, Tailwind, Netlify
+Technology: ⚙ TypeScript, Gatsby.js, GraphQL, React, Tailwind, Netlify, Forestry.io
 
 Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 
