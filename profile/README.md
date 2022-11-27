@@ -56,7 +56,7 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 #### Good first issues
 
 <!-- embed-issues distributeaid.org -->
-- [#866 "Donate to undefined" in page title](https://github.com/distributeaid/distributeaid.org/issues/866)
+- [#865 chore(deps): update gatsby monorepo (major)](https://github.com/distributeaid/distributeaid.org/pull/865)
 - [#852 E2E Tests failing due to js errors on the campaign page.](https://github.com/distributeaid/distributeaid.org/issues/852)
 - [#812 Load Additional Region Data Model Fields into Gatsby ](https://github.com/distributeaid/distributeaid.org/issues/812)
 - [#661 Fix errors reported by Lighthouse CI](https://github.com/distributeaid/distributeaid.org/issues/661)
