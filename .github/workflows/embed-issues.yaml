@@ -5,6 +5,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
+    
+permissions:
+  contents: write
 
 jobs:
   embed-issues:
@@ -20,6 +23,8 @@ jobs:
       - run: npm i @octokit/core
 
       - name: Update README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node .github/workflows/embed-issues.mjs profile/README.md
 
       - name: Check if README.md was updated
