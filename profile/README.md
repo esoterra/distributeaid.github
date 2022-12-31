@@ -84,7 +84,7 @@ The goal of this project is to provide a way for Distribute Aid to run needs ass
 
 Technology: ⚙ TypeScript, React, Node.js
 
-Lead: [Markus Tacker](https://github.com/coderbyheart)
+Lead: N/A
 
 #### Good first issues
 
