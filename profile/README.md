@@ -57,7 +57,7 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 
 <!-- embed-issues distributeaid.org -->
 - [#886 "More info" buttons in the donate page show an incorrect icon](https://github.com/distributeaid/distributeaid.org/issues/886)
-- [#865 Update gatsby monorepo (major)](https://github.com/distributeaid/distributeaid.org/pull/865)
+- [#865 chore(deps): update gatsby monorepo (major)](https://github.com/distributeaid/distributeaid.org/pull/865)
 - [#852 E2E Tests failing due to js errors on the campaign page.](https://github.com/distributeaid/distributeaid.org/issues/852)
 - [#812 Load Additional Region Data Model Fields into Gatsby ](https://github.com/distributeaid/distributeaid.org/issues/812)
 - [#772 Refactor Custom CSS Classes in Stylesheets > Tailwind Classes](https://github.com/distributeaid/distributeaid.org/issues/772)
