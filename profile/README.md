@@ -72,7 +72,6 @@ Lead: [Taylor Fairbank](https://github.com/jtfairbank)
 - [#571 Feat: Load Media Asset Data Model into Gatsby](https://github.com/distributeaid/distributeaid.org/issues/571)
 - [#546 Create Teams Page in About Us Section](https://github.com/distributeaid/distributeaid.org/issues/546)
 - [#527 Add arrows to arch on globe](https://github.com/distributeaid/distributeaid.org/issues/527)
-- [#351 Add styling for Region page](https://github.com/distributeaid/distributeaid.org/issues/351)
 <!-- embed-issues-end -->
 
 ### 📋 Needs Assessment
