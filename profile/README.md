@@ -10,7 +10,7 @@ You can find announcements of upcoming free open-source coding events on [our Op
 
 ### Livestreams
 
-Join [Taylor](https://twitter.com/borderless_dev) and [Carmen](https://twitter.com/hola_soy_milk) every Thursday at 5pm CET/11am EST/8am PST. We pair up each week to hack on various Distribute Aid tech projects, whether it’s related to frontend, backend, documentation, or design. You can [catch us on Twitch](https://www.twitch.tv/DistributeAid)!
+Join [Taylor](https://twitter.com/borderless_dev) and [Carmen](https://twitter.com/hola_soy_milk) every Thursday at 5pm CET / 11am EST / 8am PST. We pair up each week to hack on various Distribute Aid tech projects, whether it’s related to frontend, backend, documentation, or design. You can [catch us live on YouTube](https://www.youtube.com/@distributeaid)!
 
 ### Code Jams
 
